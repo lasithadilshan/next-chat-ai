@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@ai-sdk/openai": "^1.1.0",
-    "ai": "^4.1.0",
+    "ai": "^5.0.43",
     "next": "15.1.5",
     "next-chat-ai": "file:",
     "openai": "^4.79.1",
